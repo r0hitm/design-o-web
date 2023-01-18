@@ -12,3 +12,18 @@
 .about {
     margin-top: 10rem;
 }
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1rem;
+    
+}
+
+footer {
+    margin-top: 3rem;
+    padding: 2px;
+}
