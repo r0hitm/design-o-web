@@ -9,6 +9,14 @@
     line-height: 1.5;
 }
 
+.hiro {
+    background-image: url("../images/hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 5rem;
+}
+
 .about {
     margin-top: 10rem;
 }
@@ -20,7 +28,7 @@ ul {
 
 li {
     margin-bottom: 1rem;
-    
+
 }
 
 footer {
