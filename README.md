@@ -8,6 +8,6 @@ Duration: 2 hours
 
 ----
 
-
+⚠ Archived ⚠
 
 Designed by [Manmeet Singh](https://github.com/manmeet-ms), and coded by [Rohit Mehta](https://github.com/r0hitm)
